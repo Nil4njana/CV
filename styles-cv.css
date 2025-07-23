@@ -1,0 +1,34 @@
+/* CSS code for CV */
+body{
+    background-color: #f5f6fa;
+    color: black;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header{
+    padding: 30px;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+
+}
+
+header a{
+   padding: 0px 10px ; 
+}
+
+section{
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background:white;
+}
+
+footer{
+    padding: 15px;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
